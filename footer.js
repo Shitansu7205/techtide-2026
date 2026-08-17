@@ -25,11 +25,11 @@ Odisha,India</p>
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Quick Link<span></span></p>
-                        <a class="btn btn-link" href="about.html">About Us</a>
+                        <a class="btn btn-link" href="/about">About Us</a>
                         <a class="btn btn-link" href="servive.html">Services</a>
-                        <a class="btn btn-link" href="team.html">Teams</a>
-                        <a class="btn btn-link" href="pricing.html">Pricing </a>
-                        <a class="btn btn-link" href="contact.html">Contact Us</a>
+                        <a class="btn btn-link" href="/team">Teams</a>
+                        <a class="btn btn-link" href="/pricing">Pricing </a>
+                        <a class="btn btn-link" href="/contact">Contact Us</a>
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Projects<span></span></p>

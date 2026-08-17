@@ -12,13 +12,13 @@ document.write(
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav mx-auto py-0">
                 <a href="index.html" class="nav-item nav-link active">Home</a>
-                <a href="about.html" class="nav-item nav-link">About</a>
-                <a href="service.html" class="nav-item nav-link">Services</a>
+                <a href="/about" class="nav-item nav-link">About</a>
+                <a href="/service" class="nav-item nav-link">Services</a>
               
-                <a href="team.html" class="nav-item nav-link">Our Team</a>
-                <a href="pricing.html" class="nav-item nav-link">Pricing</a>
+                <a href="/team" class="nav-item nav-link">Our Team</a>
+                <a href="/pricing" class="nav-item nav-link">Pricing</a>
           
-                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                <a href="/contact" class="nav-item nav-link">Contact</a>
             </div>
             <a href="index.html#contacts" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Get Started</a>
         </div>
