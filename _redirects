@@ -1,0 +1,11 @@
+/about.html    /about       301
+/service.html  /service     301
+/team.html     /team        301
+/pricing.html  /pricing     301
+/contact.html  /contact     301
+
+/about         /about.html       200
+/service       /service.html     200
+/team          /team.html        200
+/pricing       /pricing.html     200
+/contact       /contact.html     200
